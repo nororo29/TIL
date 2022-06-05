@@ -5,7 +5,7 @@
 ## Spring
 ## JavaScript
 ## 데이터베이스
-[DB LOCK](Database/DB_LOCK)
+[LOCK](Database/DB_LOCK)
 ## 네트워크
 ## Docker
 ## Nginx
