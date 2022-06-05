@@ -30,13 +30,13 @@ Dead Lock
 1번 트랜잭션 shared lock -> sleep / 2번 E lock 설정하려고 할 때... 무기한 교착상태.
 
 
-<참고>
-https://blog.naver.com/happ141218/222464761103
-https://battleracoon.tistory.com/2
-https://chrisjune-13837.medium.com/db-lock-%EB%9D%BD%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-d908296d0279
-https://blog.naver.com/dnjswls23/222682435541
-https://blog.naver.com/kkkkkkya/221593875245https://myinfrabox.tistory.com/72
-
-os lock
-https://hoyeonkim795.github.io/posts/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EB%B0%9C%EC%83%9D%EC%9B%90%EC%9D%B8/
+<참고>  
+https://blog.naver.com/happ141218/222464761103    
+https://battleracoon.tistory.com/2  
+https://chrisjune-13837.medium.com/db-lock-%EB%9D%BD%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-d908296d0279  
+https://blog.naver.com/dnjswls23/222682435541  
+https://blog.naver.com/kkkkkkya/221593875245https://myinfrabox.tistory.com/72  
+  
+os lock  
+https://hoyeonkim795.github.io/posts/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EB%B0%9C%EC%83%9D%EC%9B%90%EC%9D%B8/  
 
